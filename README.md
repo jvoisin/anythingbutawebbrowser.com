@@ -49,7 +49,7 @@ Almost all of the content you need to change is in `src/_data/content.js`.
   - `links` (array of objects, optional): An array of links to display at the bottom of the entry.
     - `href` (string, **required**): The target of the link.
     - `linkText` (HTML, **required**): Link text.
-    - `extra` (HTML, optional): Extra HTML to display at the end of the link.
+    - `extraText` (HTML, optional): Extra HTML to display at the end of the link.
 
 ### Meta
 
